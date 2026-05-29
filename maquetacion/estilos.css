@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: rgb(255, 220, 223);
+}
+header{
+    height: 250px;
+    width: 750px;
+    background-color: chartreuse;
+    float: left;
+}
+section#logo{
+    height: 350px;
+    width: 125px;
+    background-color: black;
+     float: left;
+}
+section#video{
+    height: 250px;
+    width: 500px;
+    background-color: blanchedalmond;
+    float: none;
+}
+section#eslogan{
+    height: 250;
+    width: 125;
+    background-color: beige;
+    float: inline-start;
+}
+padding: 0px;
+    margin:  0px;
+
+
+
+
+
+ul{
+    list-style-type: none;
+}
+
+nav li a{
+text-decoration: none;
+background-color: rgb(51, 131, 145);
+color: rgb(226, 199, 199);
+padding: 10px;
+display: block;
+width: 95px;
+text-align: center;
+border-radius: 15px;
+}
+
+nav{
+    width: 500px;
+margin: auto;
+}
+
+nav ul li{
+        float: left;
+
+}
+
+nav li a:hover
+background-color: darkblue;
